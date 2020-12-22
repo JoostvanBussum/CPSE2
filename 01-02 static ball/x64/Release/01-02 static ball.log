@@ -1,0 +1,171 @@
+﻿  ball.cpp
+  main.cpp
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(CircleShape.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(CircleShape.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(Transformable.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(Transformable.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(Shape.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(Shape.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(Transform.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(Transform.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(View.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(View.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(Context.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(Context.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(SensorManager.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(SensorManager.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(Joystick.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(Joystick.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-system-s-d.lib(Err.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-system-s-d.lib(Err.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+sfml-system-s-d.lib(ThreadLocal.cpp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in ball.obj
+sfml-system-s-d.lib(ThreadLocal.cpp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in ball.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glBlendFunc
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glClear
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glClearColor
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glDisable
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glEnable
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glGetError
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : error LNK2001: unresolved external symbol glGetError
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2001: unresolved external symbol glGetError
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glLoadMatrixf
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glLoadMatrixf
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glMatrixMode
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glMatrixMode
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glPopAttrib
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glPopMatrix
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glPushAttrib
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glPushMatrix
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glViewport
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glColorPointer
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glDrawArrays
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glEnableClientState
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glPopClientAttrib
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glPushClientAttrib
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glTexCoordPointer
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: unresolved external symbol glVertexPointer
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(Shape.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-graphics-s-d.lib(Shape.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReportW
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol glFlush
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glFlush
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2001: unresolved external symbol glGetIntegerv
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glGetIntegerv
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : error LNK2001: unresolved external symbol glGetIntegerv
+sfml-graphics-s-d.lib(TextureSaver.cpp.obj) : error LNK2001: unresolved external symbol glGetIntegerv
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glGetTexImage
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glLoadIdentity
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glTexImage2D
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glTexParameteri
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glBindTexture
+sfml-graphics-s-d.lib(TextureSaver.cpp.obj) : error LNK2001: unresolved external symbol glBindTexture
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glCopyTexSubImage2D
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glDeleteTextures
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glGenTextures
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: unresolved external symbol glTexSubImage2D
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : error LNK2001: unresolved external symbol glGetString
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_std_error
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_CreateCompress
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_destroy_compress
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_stdio_dest
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_set_defaults
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_set_quality
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_start_compress
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_write_scanlines
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_finish_compress
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_glEnable
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_glGetError
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_glGetIntegerv
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_glGetString
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_glIsEnabled
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_wglCreateContext
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_wglDeleteContext
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_wglGetProcAddress
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_wglMakeCurrent
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: unresolved external symbol __imp_wglShareLists
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_joyGetPosEx
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_joyGetDevCapsW
+sfml-system-s-d.lib(SleepImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_timeGetDevCaps
+sfml-system-s-d.lib(SleepImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_timeBeginPeriod
+sfml-system-s-d.lib(SleepImpl.cpp.obj) : error LNK2001: unresolved external symbol __imp_timeEndPeriod
+C:\TI-SOFTWARE\V2CPSE2-msvc-01\x64\Release\01-02 static ball.exe : fatal error LNK1120: 58 unresolved externals

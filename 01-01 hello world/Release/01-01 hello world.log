@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  01-01 hello world.vcxproj -> C:\TI-SOFTWARE\V2CPSE2-msvc-01\Release\01-01 hello world.exe
+  01-01 hello world.vcxproj -> C:\TI-SOFTWARE\V2CPSE2-msvc-01\Release\01-01 hello world.pdb (Full PDB)
